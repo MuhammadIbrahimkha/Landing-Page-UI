@@ -29,6 +29,36 @@ DotUX is a fictional web service designed to demonstrate how to build a landing 
 
 ## 📁 Folder Structure
 
+Landing-Page-UI/
+├── public/
+│   ├── index.html
+│   └── favicon.ico
+│
+├── src/
+│   ├── assets/
+│   │   ├── images/             # All images used in the UI
+│   │   └── icons/              # Any SVG or icon files
+│   │
+│   ├── components/
+│   │   ├── Header.jsx          # Navigation bar
+│   │   ├── Hero.jsx            # Top section with heading and CTA
+│   │   ├── Features.jsx        # Awesome features section
+│   │   ├── Pricing.jsx         # Pricing cards
+│   │   ├── Testimonials.jsx    # Customer feedback
+│   │   ├── Contact.jsx         # Contact form
+│   │   ├── Footer.jsx          # Footer with links and info
+│   │   └── Button.jsx          # Reusable button component
+│   │
+│   ├── App.jsx                 # Root component
+│   ├── main.jsx                # Entry point for React
+│   └── index.css               # Tailwind imports and custom styles
+│
+├── .gitignore
+├── package.json
+├── README.md
+└── vite.config.js              # If using Vite as build tool
+
+
 
 
 
