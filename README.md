@@ -78,3 +78,6 @@ Muhammad Ibrahim – Web Developer
 This project is open-source and available under the MIT License.
 
 
+Crafted with ❤️ by Muhammad Ibrahim
+
+
